@@ -90,7 +90,7 @@ session_destroy();
             </div>
             <div class="container">
                 <div class="content-center">
-                    <h1 class="title">Atención en vivo</h1>
+                    <h1 class="title">Atención en vivo por ahora epa epa epa epa epa</h1>
                     <div class="text-center">
                         <a href="#pablo" class="btn btn-primary btn-icon  btn-icon-mini">
                             <i class="fa fa-facebook-square"></i>
