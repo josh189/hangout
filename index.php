@@ -8,7 +8,7 @@ session_destroy();
 <head>
     <meta charset="utf-8" />
     <link rel="apple-touch-icon" sizes="76x76" href="assets/img/apple-icon.png">
-    <link rel="icon" type="image/png" href="assets/img/favicon.png">
+    <link rel="icon" type="image/png" href="assets/img/apple-icon.png">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <title>Hangout</title>
     <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no' name='viewport' />
@@ -90,7 +90,7 @@ session_destroy();
             </div>
             <div class="container">
                 <div class="content-center">
-                    <h1 class="title">Atención en vivo CON GOOGLE MEET v12</h1>
+                    <h1 class="title">Atención en vivo CON GOOGLE MEET</h1>
                     <div class="text-center">
                         <a href="#pablo" class="btn btn-primary btn-icon  btn-icon-mini">
                             <i class="fa fa-facebook-square"></i>
