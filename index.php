@@ -79,6 +79,18 @@ session_destroy();
                             <p class="hidden-lg-up">Instagram</p>
                         </a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link" rel="tooltip" title="Follow us on Twitter" data-placement="bottom" href="https://twitter.com/CreativeTim" target="_blank">
+                            <i class="fa fa-twitter"></i>
+                            <p class="hidden-lg-up">Twitter</p>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" rel="tooltip" title="Follow us on Twitter" data-placement="bottom" href="https://twitter.com/CreativeTim" target="_blank">
+                            <i class="fa fa-twitter"></i>
+                            <p class="hidden-lg-up">Twitter</p>
+                        </a>
+                    </li>
                 </ul>
             </div>
         </div>
