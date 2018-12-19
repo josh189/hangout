@@ -1,0 +1,17 @@
+commit 97d1a2fed24efd4da14e5287e467f73434de0a45
+Author: Fusión Creativa <gerencia@fusioncreativa.com.ve>
+Date:   Tue Dec 18 17:31:10 2018 -0400
+
+    se agrego pea pea pea
+
+commit df56e682e71c8adcedfdc26fb442191221eff24c
+Author: Fusión Creativa <gerencia@fusioncreativa.com.ve>
+Date:   Tue Dec 18 17:19:42 2018 -0400
+
+    agregamos cambios al index.php
+
+commit cc4cd7c852b759d44beeea179c58a2c067bc9a15
+Author: Fusión Creativa <gerencia@fusioncreativa.com.ve>
+Date:   Tue Dec 18 17:17:50 2018 -0400
+
+    iniciamos 18-12-2018
